@@ -3,4 +3,5 @@ Neste projeto eu exercitei/pratiquei meus conhecimentos em diagramação UML, fa
 
 ## Foto do diagrama:
 
-![IphoneDiagramUML drawio](https://github.com/KaFLo0/Diagramacao-classes-iphone/assets/142915648/c026a7e2-165f-41dd-97fa-b072cb8089eb)
+![IphoneDiagram](https://github.com/KaFLo0/Diagramacao-classes-iphone/assets/142915648/f91f4726-321b-44dc-a7f7-eab7a6f001a1)
+
